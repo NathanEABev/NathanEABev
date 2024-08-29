@@ -14,5 +14,5 @@ atualmente já realizei:
 + Funções: desenvolvendo um recomendador de filmes com JavaScript ([Alura](https://www.alura.com.br))
 + Página Web: criando um catálogo de vídeos com HTML e CSS ([Alura](https://www.alura.com.br))
 
-Curriculo **(atualmente inacabado e desuatalizado)
+Curriculo **(atualmente inacabado e desuatalizado)**
 + https://docs.google.com/document/d/1YFnpEs57zbBorgRLCPOexVva7YTSQExefdjsr2_b2vU/edit
