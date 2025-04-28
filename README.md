@@ -13,6 +13,3 @@ atualmente já realizei:
 + Lógica de programação: desenvolvendo um jogo estilo Pong ([Alura](https://www.alura.com.br))
 + Funções: desenvolvendo um recomendador de filmes com JavaScript ([Alura](https://www.alura.com.br))
 + Página Web: criando um catálogo de vídeos com HTML e CSS ([Alura](https://www.alura.com.br))
-
-Curriculo __**(atualmente inacabado e desuatalizado)**__
-+ https://docs.google.com/document/d/1YFnpEs57zbBorgRLCPOexVva7YTSQExefdjsr2_b2vU/edit
