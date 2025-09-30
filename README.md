@@ -1,4 +1,4 @@
-# Repositorio Digital de Nathan E. A. Bevilaqua
+# Nathan Bevilaqua
   email de contato: nathanarrotheia@gmail.com
  
 + Estudante de HTML, CSS e JavaScript
