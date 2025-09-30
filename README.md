@@ -1,7 +1,7 @@
 # Nathan Bevilaqua
   email de contato: nathanarrotheia@gmail.com
  
-+ Estudante de HTML, CSS e JavaScript
+- Estudante de HTML, CSS e JavaScript
 + Estudo pelos sites [Alura](https://www.alura.com.br) e [Curso em Vídeo](https://www.cursoemvideo.com)
 + Repositorio para organização e compartilhamentos dos projetos criados
 
